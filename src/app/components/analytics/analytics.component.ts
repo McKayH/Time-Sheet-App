@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Employee } from 'src/app/interfaces/employee';
 
 @Component({
   selector: 'app-analytics',
